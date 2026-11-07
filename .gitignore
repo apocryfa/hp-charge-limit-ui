@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Binaries
+*.exe
+
+# Logs
+*.log
+
+# Screenshots / verification artifacts
+*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
