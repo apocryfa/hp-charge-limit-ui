@@ -1,7 +1,7 @@
 # hp-charge-limit-ui
 
 Desktop UI for [hp-charge-limit-rs](https://github.com/kralonur/hp-charge-limit-rs)
-(HP battery charge-limit daemon), a program which brings battery saving tech to the HP Victus.   It is currently built in Electron.
+(HP battery charge-limit daemon), a program which brings battery saving tech to the HP Victus.   It is currently built in Electron.  Vibecoded with Hermes.
 
 ## Run
 
